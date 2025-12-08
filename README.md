@@ -3,6 +3,12 @@
 A lightweight, educational flight-computer system built using Python, aerodynamic equations, and modular algorithms.
 Designed for non-life-critical small aircraft, RC planes, drones, UAV R&D, and academic learning.
 
+Contribution :
+• Ganesh Singh (Team Lead): Deciding the project and algorithm structure, main takeoff Algorithm and predefined functions, major part of GUI.
+• Rishabh Loura – Landing and Stall Algorithm
+• Harshvardhan Singh – In flight and Altitude Hold Algorithm
+• Shresth Rai – Predefined Constants, Research , Turn Algorithm, GUI Layout .
+
 🔍 Project Overview
 
 This project simulates the core intelligence of a flight computer:
